@@ -17,10 +17,6 @@
 [1.3]: http://www.codeschool.com/courses/rails-testing-for-zombies
 [1.4]: https://www.codeschool.com/courses/rails-best-practices
 
-## Projects
-- [ ] Set up a rails application environment from scratch
-- [ ] Create a to-do app
-
 ## Books
 - [ ] [*Exceptional Ruby*] [3.1], Advi Grimm
 - [ ] [*The Rails 3 Way*] [3.2], Obie Fernandez

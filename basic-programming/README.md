@@ -2,8 +2,6 @@
 
 # Basic Programming
 
-![Basic Programming](http://i.giphy.com/eCqFYAVjjDksg.gif)
-
 ## Learning
 
 - [ ] [CodeSchool: Try Ruby] [1.1]
@@ -41,26 +39,12 @@
 - [ ] [Roman Numerals Kata] [2.3]
 	- [ ] OO Ruby w/ test suite
 	- [ ] OO JS w/ test suite
-- [ ] [Bowling Kata] [2.4]
-	- [ ] OO Ruby w/ test suite
-	- [ ] OO JS w/ test suite
-- [ ] [Yahtzee Kata] [2.5]
-	- [ ] OO Ruby w/ test suite
-	- [ ] OO JS w/ test suite
-- [ ] [Game of Life Kata] [2.6]
-	- [ ] OO Ruby w/ test suite
-	- [ ] OO JS w/ test suite
-- [ ] [Choose Your Own Kata] [2.7]
 - [ ] [Ruby Warriors] [2.8]
 - [ ] [JavaScript Warriors] [2.9]
 
 [2.1]: project-triangle-kata.md
 [2.2]: http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz
 [2.3]: http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals
-[2.4]: http://codingdojo.org/cgi-bin/index.pl?KataBowling
-[2.5]: http://codingdojo.org/cgi-bin/index.pl?KataYahtzee
-[2.6]: http://codingdojo.org/cgi-bin/index.pl?KataGameOfLife
-[2.7]: http://codingdojo.org/cgi-bin/index.pl?KataCatalogue
 [2.8]: https://www.bloc.io/ruby-warrior/#/
 [2.9]: http://jswarrior.fusioncharts.com/
 

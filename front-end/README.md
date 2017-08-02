@@ -2,8 +2,6 @@
 
 # Front-End
 
-![Front End ](http://i.giphy.com/l4KieBWvoF9Y3qKvC.gif)
-
 ## Learning
 
 - [ ] [CodeSchool: Front-End Formations] [1.1]
