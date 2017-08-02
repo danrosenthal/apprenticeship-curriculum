@@ -1,8 +1,5 @@
 # Apprenticeship curriculum
 
-## Getting Started [→](/getting-started/)
-Learn the tools and fundamentals you’ll need to make your way through the apprenticeship. Master Git, get comfortable in the Shell, and bring your development environment up to speed. **[Getting Started](/getting-started/)**
-
 ## Front-End Development [→](/front-end/)
 Markup, styling, preprocessors, responsive web design, jQuery — it’s time to put a beautiful face on your websites and web apps. **[Front-End Development](/front-end/)**
 
