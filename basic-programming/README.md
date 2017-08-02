@@ -16,7 +16,6 @@
 - [ ] [CodeSchool: Javascript Road Trip 2] [1.8]
 - [ ] [CodeSchool: Javascript Road Trip 3] [1.9]
 - [ ] [CodeSchool: Javascript Best Practices] [1.10]
-- [ ] [CodeSchool: CoffeeScript] [1.11]
 - [ ] [Jasmine Tutorial] [1.12]
 
 [1.1]: http://tryruby.org/
@@ -29,7 +28,6 @@
 [1.8]: https://www.codeschool.com/courses/javascript-road-trip-part-3
 [1.9]: https://www.codeschool.com/courses/javascript-road-trip-part-4
 [1.10]: https://www.codeschool.com/courses/javascript-best-practices
-[1.11]: https://www.codeschool.com/courses/coffeescript
 [1.12]: http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-21229
 
 ## Projects
@@ -74,14 +72,12 @@ Book Reviews: add to weekly journal (all books assigned below). 100-200 words wi
 - [ ] [*Why’s Poignant Guide to Ruby*] [3.3], Why
 - [ ] [*JavaScript: The Good Parts*] [3.4], Douglas Crockford
 - [ ] [*JavaScript Enlightenment*] [3.5], Cody Lindley
-- [ ] [*CoffeeScript*] [3.6], Trevor Burnham
 
 [3.1]: http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330
 [3.2]: http://learnrubythehardway.org/book/
 [3.3]: http://cloud.github.com/downloads/mislav/poignant-guide/whys-poignant-guide-to-ruby.pdf
 [3.4]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/
 [3.5]: http://www.amazon.com/JavaScript-Enlightenment-Cody-Lindley/dp/1449342884/
-[3.6]: http://www.amazon.com/CoffeeScript-Accelerated-Development-Trevor-Burnham/dp/1934356786/
 
 ## Additional Resources
 

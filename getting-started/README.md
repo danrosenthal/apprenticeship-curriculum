@@ -2,8 +2,6 @@
 
 # Getting Started
 
-![Getting Started](http://33.media.tumblr.com/37e95b906cfa37b4b9971e3ed422f413/tumblr_mypz84XK191rlntwpo1_r1_500.gif)
-
 ## Learning
 - [ ] [CodeSchool: Try Git] [1.1]
 - [ ] [CodeSchool: Git Real 2] [1.2]
@@ -12,35 +10,6 @@
 [1.1]: http://www.codeschool.com/courses/try-git
 [1.2]: https://www.codeschool.com/courses/git-real-2
 [1.3]: http://www.codeschool.com/courses/git-real
-
-## Projects
-- [ ] [Git Setup] [2.1]
-- [ ] [Git Practice] [2.2]
-- [ ] [Customize Dotfiles] [2.3]
-- [ ] Install Apps
-	- [ ] [Sublime] [2.4]
-	- [ ] [Vim] [2.5]
-	- [ ] [iTerm] [2.6]
-	- [ ] [Alfred] [2.7]
-	- [ ] [Moom] [2.8]
-	- [ ] [Dash] [2.9]
-	- [ ] [Slack] [2.10]
-	- [ ] [Dropbox] [2.11]
-	- [ ] [Trello] [2.12]
-
-[2.1]: project-git-setup.md
-[2.2]: #
-[2.3]: https://dotfiles.github.io/
-[2.4]: http://www.sublimetext.com/
-[2.5]: http://www.vim.org/
-[2.6]: http://iterm2.com/
-[2.7]: http://www.alfredapp.com/
-[2.8]: http://manytricks.com/moom/
-[2.9]: http://kapeli.com/dash
-[2.10]: https://slack.com/
-[2.11]: https://www.dropbox.com
-[2.12]: https://trello.com/
- 
 
 ## Books
 Book Reviews: add to weekly journal (all books assigned below). 100-200 words with a brief summary and your biggest applicable takeaway.
