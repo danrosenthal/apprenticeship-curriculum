@@ -22,13 +22,7 @@
 [1.5]: http://compass-style.org/help/
 [1.6]: https://www.codeschool.com/courses/journey-into-mobile
 [1.7]: https://www.codeschool.com/courses/try-jquery
-[1.8]: https://www.codeschool.com/courses/jquery-the-return-flight 
-
-## Projects
-
-- [ ] [Front-End Project] [2.1]
-
-[2.1]: project-front-end.md
+[1.8]: https://www.codeschool.com/courses/jquery-the-return-flight
 
 ## Books
 Book Reviews: add to weekly journal (all books assigned below). 100-200 words with a brief summary and your biggest applicable takeaway.

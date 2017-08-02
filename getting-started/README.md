@@ -29,7 +29,7 @@
 	- [ ] [Trello] [2.12]
 
 [2.1]: project-git-setup.md
-[2.2]: project-more-git.md
+[2.2]: #
 [2.3]: https://dotfiles.github.io/
 [2.4]: http://www.sublimetext.com/
 [2.5]: http://www.vim.org/

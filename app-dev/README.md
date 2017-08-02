@@ -20,11 +20,6 @@
 ## Projects
 - [ ] Set up a rails application environment from scratch
 - [ ] Create a to-do app
-- [ ] Team Project
-	- [ ] Kick off team project
-	- [ ] Complete and launch team project
-- [ ] Intro to sparkbox/project-init
-- [ ] Pet Project
 
 ## Books
 - [ ] [*Exceptional Ruby*] [3.1], Advi Grimm
