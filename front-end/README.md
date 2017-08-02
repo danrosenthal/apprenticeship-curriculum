@@ -40,7 +40,7 @@ Book Reviews: add to weekly journal (all books assigned below). 100-200 words wi
 ## Additional Resources
 
 * [Hack Design] [4.1]
-* [Atmoic Web Design] [4.2]
+* [Atomic Web Design] [4.2]
 * [Treehouse] [4.3]
 * [Codecademy: HTML & CSS] [4.4]
 * [Codecademy: jQuery] [4.5]
