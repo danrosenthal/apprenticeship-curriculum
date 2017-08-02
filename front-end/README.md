@@ -23,7 +23,6 @@
 [1.8]: https://www.codeschool.com/courses/jquery-the-return-flight
 
 ## Books
-Book Reviews: add to weekly journal (all books assigned below). 100-200 words with a brief summary and your biggest applicable takeaway.
 
 - [ ] [*HTML5 for Web Designers*] [3.1], Jeremy Keith
 - [ ] [*CSS3 for Web Designers*] [3.2], Dan Cederholm

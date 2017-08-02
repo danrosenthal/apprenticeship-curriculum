@@ -49,7 +49,6 @@
 [2.9]: http://jswarrior.fusioncharts.com/
 
 ## Books
-Book Reviews: add to weekly journal (all books assigned below). 100-200 words with a brief summary and your biggest applicable takeaway.
 
 - [ ] [*Practical Object Oriented Programming in Ruby*] [3.1], Sandi Metz
 - [ ] [*Learn Ruby the Hard Way*] [3.2], Zed A. Shaw
